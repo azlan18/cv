@@ -1,0 +1,5 @@
+pip install opencv-contrib-python==4.10.0.84
+
+pip install matplotlib opencv-python numpy scikit-image
+
+pip install ipykernel matplotlib opencv-python numpy scikit-image
